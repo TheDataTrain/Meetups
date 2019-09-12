@@ -1,2 +1,2 @@
 # Meetups
-Repositório para armazenar materiais apresentados em Meetups
+Repositório para armazenar materiais apresentados em Meetups.
