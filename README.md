@@ -15,4 +15,4 @@ A **Data Train** é uma comunidade aberta voltada para a área de dados e inteli
 
 ### Submissão de Palestras
 
-As palestras apresentadas nos Meetups serão sempre escolhidas pelos integrantes da comunidade. Os interessados em submeter uma palestra devem ir até **Issue**, acessar a última issue aberta e seguir as instruções que constam nela para realizar a submissão da palestra.
+As palestras apresentadas nos Meetups serão sempre escolhidas pelos integrantes da comunidade. Os interessados em submeter uma palestra devem ir até **Issues**, acessar a última issue aberta e seguir as instruções que constam nela para realizar a submissão da palestra.
