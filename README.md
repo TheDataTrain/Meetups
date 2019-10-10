@@ -12,3 +12,5 @@ A **Data Train** é uma comunidade aberta voltada para a área de dados e inteli
 **Telegram:** t.me/thedatatrain
 
 **Instragram:** @datatrain
+
+As palestras apresentadas nos Meetups serão sempre escolhidas pelos integrantes da comunidade. Os interessados em submeter uma palestra devem ir até **Issue**, acessar a última issue aberta e seguir as instruções que constam nela para realizar a submissão da palestra.
