@@ -1,0 +1,1 @@
+[<img src="https://github.com/TheDataTrain/Meetups/blob/master/meetup-01/imgs/video-fernando.png">](https://www.youtube.com/watch?v=fWy3Vb6PBN0)
